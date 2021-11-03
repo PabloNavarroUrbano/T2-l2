@@ -7,3 +7,26 @@
 7- ls / -a
 8- ls /etc | grep -v t
 9- ls /usr */
+
+1- cd /tmp
+2- pwd
+3- date
+4- cd /home
+5- pwd
+6- ls -li
+7- mkdir PRUEBA
+8- mkdir dir dentro de dirs
+9- cp /etc/hostname /home/alumno/PRUEBA/Mensaje
+10- locate Mensaje
+
+21- grep -i -o quijote el_quijote.txt |wc -l
+22- grep -v quijote el_quijote.txt |wc -l
+23- grep -i -o quijote *.txt |wc -l
+24- grep -v quijote *.txt |wc -l
+25- sed 's/panza/barriga/g' el_quijote.txt
+26- sed -i 's/panza/barriga/gi' el_quijote.txt
+27- head -c 4 el_quijote.txt
+28-  head -c 4000 el_quijote.txt
+29- head -n25 el_quijote.txt | tail -n11
+30- sort -r -f el_quijote.txt
+
