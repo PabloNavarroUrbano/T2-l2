@@ -4,3 +4,4 @@
 24- grep -v quijote *.txt |wc -l
 25- sed 's/panza/barriga/g' el_quijote.txt
 26- sed -i 's/panza/barriga/gi' el_quijote.txt
+27- head -c 4 el_quijote.txt
