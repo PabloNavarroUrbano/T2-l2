@@ -7,3 +7,4 @@
 27- head -c 4 el_quijote.txt
 28-  head -c 4000 el_quijote.txt
 29- head -n25 el_quijote.txt | tail -n11
+30- sort -r -f el_quijote.txt
